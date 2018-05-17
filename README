@@ -1,0 +1,1 @@
+一个haproxy，为了在不使用lb的情况下访问docker内部程序。
